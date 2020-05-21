@@ -1,0 +1,22 @@
+tr:nth-child(odd) {
+  background-color: #fbfbfb;
+}
+
+.table-list {
+  overflow-x: auto;
+  overflow-y: auto;
+  max-height: 350px;
+}
+
+.form-footer {
+  width: 0;
+  bottom: 60px;
+  display: block;
+  position: initial;
+  flex-direction: row-reverse;
+}
+
+.btn-voltar {
+  position: relative;
+  margin-top: 15px;
+}
