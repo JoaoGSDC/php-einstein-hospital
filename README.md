@@ -1,4 +1,4 @@
-#PHP Hospital
+<h1>PHP Hospital</h1>
 
 Para poder executar o projeto e ver eventuais alterações que você possa ter feito você deve:
 
