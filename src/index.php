@@ -21,22 +21,22 @@
 
         <div class="container-icons">
             <div class="container-icon">
-                <a href="pages/hospital/cad-hospital.php">
-                    <img class="icons" src="shared/medico.svg" alt="hospital" />
+                <a href="app/pages/hospital/cad-hospital.php">
+                    <img class="icons" src="assets/medico.svg" alt="hospital" />
                     <label class="icons-text">HOSPITAL</label>
                 </a>
             </div>
 
             <div class="container-icon">
-                <a href="pages/pacients/cad-pacients.php">
-                    <img class="icons" src="shared/espirrar.svg" alt="hospital" />
+                <a href="app/pages/pacients/cad-pacients.php">
+                    <img class="icons" src="assets/espirrar.svg" alt="hospital" />
                     <label class="icons-text">PACIÊNTES</label>
                 </a>
             </div>
 
             <div class="container-icon">
-                <a href="pages/list/list.php">
-                    <img class="icons" src="shared/lista-de-controle.svg" alt="hospital" />
+                <a href="app/pages/list/list.php">
+                    <img class="icons" src="assets/lista-de-controle.svg" alt="hospital" />
                     <label class="icons-text">LISTA</label>
                 </a>
             </div>
